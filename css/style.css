@@ -690,6 +690,13 @@ pre code {
   margin-left: -15px;
 }
 
+.row-rev {
+  display: flex;
+  flex-wrap: wrap-reverse;
+  margin-right: -15px;
+  margin-left: -15px;
+}
+
 .no-gutters {
   margin-right: 0;
   margin-left: 0;
