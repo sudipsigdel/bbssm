@@ -3,7 +3,7 @@
     "short_name": "BBSSM",
     "icons": [
         {
-            "src": "logo-bg.png",
+            "src": "icon.png",
             "sizes": "500x500",
             "type": "image/png"
         }
