@@ -4,13 +4,10 @@
     "icons": [
         {
             "src": "logo-bg.png",
-            "sizes": "512x512",
-            "type": "image/png",
-            "purpose": "maskable"
+            "sizes": "500x500",
+            "type": "image/png"
         }
     ],
-    "theme_color": "#ff6804",
     "background_color": "#ffffff",
-    "display": "standalone",
-    "orientation": "portrait"
+    "display": "standalone"
 }
