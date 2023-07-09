@@ -1,0 +1,16 @@
+{
+    "name": "Bal Bikas School of Science and Management",
+    "short_name": "BBSSM",
+    "icons": [
+        {
+            "src": "logo-bg.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ],
+    "theme_color": "#ff6804",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "orientation": "portrait"
+}
